@@ -1,0 +1,14 @@
+body {
+    font-family: 'Comic Sans', sans-serif;
+    background-color: brown;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+.result {
+    color: cyan;
+    font-size: 50px;
+}
